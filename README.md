@@ -4,9 +4,10 @@ Using existing single cell RNA sequencing datasets to profile key immunopatholog
 #### Installation
 For Mac or Linux/Unix based operating systems:
 Start the terminal and change to the directory having the downloaded 'sarcov2_immunopathology' folder. Type in the commands below:
-1. $ sudo conda create -n sarcov2_immunopathology python=3.6.8
-2. $ conda activate sarcov2_immunopathology
-3. $ conda env update --file sarcov2_immunopathology.yml 
+1. $ cd <path to the directory containing the dowloaded folder 'sarcov2_immunopathology'>
+2. $ sudo conda create -n sarcov2_immunopathology python=3.6.8
+3. $ conda activate sarcov2_immunopathology
+4. $ conda env update --file sarcov2_immunopathology.yml 
 
 #### Source code
 
