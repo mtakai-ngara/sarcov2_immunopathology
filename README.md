@@ -17,4 +17,4 @@ Start the terminal and type in the commands below in the listed order:
 All source code is in the folder named notebook. You will find utility function in the python script 'utility_functions.py' and all the analysis code in the notebook named 'covid_sc_immunopathology.ipynb'.   
 
 #### Data sets
-All datasets are in the directory named 'datasets'.
+All datasets are in the directory named 'datasets'. Use Scanpy's read_loom function to read into the expression datasets.
