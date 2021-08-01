@@ -18,6 +18,6 @@ All source code is in the folder named notebook. You will find utility function 
 
 #### Data sets
 All datasets are in the directory named 'datasets'. Use Scanpy's read_loom function to read into the expression datasets.
-#### Citation
+#### How to cite the article
 Ngara, M., and Siwo, G.H. (2021). Molecular relationships between SARS-CoV-2 Spike protein and LIFR, a pneumonia protective IL-6 family cytokine receptor. bioRxiv, 2021.2004.2018.440296.<br/>
 See the full article at: https://www.biorxiv.org/content/10.1101/2021.04.18.440296v1
