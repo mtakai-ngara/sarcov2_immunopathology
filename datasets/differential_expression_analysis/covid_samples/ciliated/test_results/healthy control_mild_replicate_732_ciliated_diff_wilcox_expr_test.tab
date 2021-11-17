@@ -1,0 +1,11 @@
+gene	cell_type	avg_logFC	p_val	p_val_adj	de_family	de_type	test_id
+1	ENSG00000033170	ciliated	-1.07564461970748	0.00732749216288409	0.0104678459469773	singlecell	singlecell	healthy control_mild_replicate_732_ciliated_diff_wilcox
+2	ENSG00000104972	ciliated	0.877633618068201	0.565662375787922	0.565662375787922	singlecell	singlecell	healthy control_mild_replicate_732_ciliated_diff_wilcox
+3	ENSG00000113594	ciliated	-0.781392630421802	0.000277732976330992	0.000694332440827479	singlecell	singlecell	healthy control_mild_replicate_732_ciliated_diff_wilcox
+4	ENSG00000118257	ciliated	-2.60355182367451	8.40629884160361e-17	8.40629884160361e-16	singlecell	singlecell	healthy control_mild_replicate_732_ciliated_diff_wilcox
+5	ENSG00000128342	ciliated	-0.911553728321008	0.00597680038300148	0.00996133397166913	singlecell	singlecell	healthy control_mild_replicate_732_ciliated_diff_wilcox
+6	ENSG00000130234	ciliated	-2.36058971525647	0.0883726476938047	0.110465809617256	singlecell	singlecell	healthy control_mild_replicate_732_ciliated_diff_wilcox
+7	ENSG00000143226	ciliated	4.69679319505178	0.00146199054884416	0.00292398109768833	singlecell	singlecell	healthy control_mild_replicate_732_ciliated_diff_wilcox
+8	ENSG00000172936	ciliated	-3.77156469894558	1.69074417324644e-09	8.45372086623218e-09	singlecell	singlecell	healthy control_mild_replicate_732_ciliated_diff_wilcox
+9	ENSG00000184012	ciliated	-1.75271806059167	5.90774790737454e-09	1.96924930245818e-08	singlecell	singlecell	healthy control_mild_replicate_732_ciliated_diff_wilcox
+10	ENSG00000186074	ciliated	3.67408839119414	0.308848200921766	0.343164667690851	singlecell	singlecell	healthy control_mild_replicate_732_ciliated_diff_wilcox

@@ -1,0 +1,11 @@
+gene	cell_type	avg_logFC	p_val	p_val_adj	de_family	de_type	test_id
+1	ENSG00000033170	ciliated	1.67400630073833	7.8783404971949e-07	2.62611349906497e-06	singlecell	singlecell	mild_severe_replicate_103_ciliated_diff_wilcox
+2	ENSG00000099250	ciliated	-1.60680688976438	0.318529565678422	0.45504223668346	singlecell	singlecell	mild_severe_replicate_103_ciliated_diff_wilcox
+3	ENSG00000104972	ciliated	-2.23961139580765	0.641729013153818	0.641729013153818	singlecell	singlecell	mild_severe_replicate_103_ciliated_diff_wilcox
+4	ENSG00000113594	ciliated	1.6035724872011	2.26998567689379e-06	5.67496419223447e-06	singlecell	singlecell	mild_severe_replicate_103_ciliated_diff_wilcox
+5	ENSG00000118257	ciliated	1.57349851820399	1.21651292375173e-11	6.08256461875865e-11	singlecell	singlecell	mild_severe_replicate_103_ciliated_diff_wilcox
+6	ENSG00000128342	ciliated	-0.354761979865849	0.572162606729679	0.635736229699644	singlecell	singlecell	mild_severe_replicate_103_ciliated_diff_wilcox
+7	ENSG00000130234	ciliated	1.46609428584692	0.401340470101843	0.501675587627304	singlecell	singlecell	mild_severe_replicate_103_ciliated_diff_wilcox
+8	ENSG00000143226	ciliated	-3.01326964425824	0.141080583308935	0.235134305514892	singlecell	singlecell	mild_severe_replicate_103_ciliated_diff_wilcox
+9	ENSG00000172936	ciliated	0.162735282223176	0.0477760184389521	0.0955520368779042	singlecell	singlecell	mild_severe_replicate_103_ciliated_diff_wilcox
+10	ENSG00000184012	ciliated	2.18367390393106	2.85877351442459e-12	2.85877351442459e-11	singlecell	singlecell	mild_severe_replicate_103_ciliated_diff_wilcox

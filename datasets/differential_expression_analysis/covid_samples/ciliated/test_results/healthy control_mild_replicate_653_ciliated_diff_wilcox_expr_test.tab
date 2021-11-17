@@ -1,0 +1,13 @@
+gene	cell_type	avg_logFC	p_val	p_val_adj	de_family	de_type	test_id
+1	ENSG00000033170	ciliated	-2.17644097020885	3.8061137711248e-06	1.14183413133744e-05	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+2	ENSG00000099250	ciliated	-6.96566769853403	0.0444225439210193	0.0533070527052231	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+3	ENSG00000104972	ciliated	-0.355573346922396	0.573539531761411	0.573539531761411	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+4	ENSG00000113594	ciliated	-1.33771484032292	9.38127526297554e-06	2.25150606311413e-05	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+5	ENSG00000118257	ciliated	-2.90343233841939	5.53888338063911e-17	6.64666005676694e-16	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+6	ENSG00000128342	ciliated	0.328304115985018	0.0593005759877221	0.0646915374411514	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+7	ENSG00000130234	ciliated	-2.82224700843066	0.0294846530694602	0.0442269796041903	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+8	ENSG00000143226	ciliated	5.50298798462404	0.000812898077903198	0.0016257961558064	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+9	ENSG00000172936	ciliated	-2.98450496906879	2.60797907731103e-07	1.04319163092441e-06	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+10	ENSG00000184012	ciliated	-1.42823151981268	6.16987189055375e-10	3.70192313433225e-09	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+11	ENSG00000186074	ciliated	7.38945208908437	0.044419831159876	0.0533070527052231	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
+12	ENSG00000242950	ciliated	-7.37710721877399	0.0241868466899543	0.0414631657542074	singlecell	singlecell	healthy control_mild_replicate_653_ciliated_diff_wilcox
